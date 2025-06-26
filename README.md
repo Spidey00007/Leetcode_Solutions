@@ -2,13 +2,17 @@
 
 ###### Click on problem to go directly to its solution:
 
-- 🧩 [23. Merge k Sorted Lists]()
+- 🧩 [23. Merge k Sorted Lists](https://github.com/Spidey00007/Leetcode_Solutions/blob/main/1%20-%20500/23.%20Merge%20k%20Sorted%20Lists.md)
 
 - 🔢 [38. Count and Say](https://github.com/Spidey00007/Leetcode_Solutions/blob/main/1%20-%20500/38.%20Count%20and%20Say.md)
+
+- 🏃‍♂️ [55. Jump Game]()
 
 - 🚚 [283. Move Zeroes](https://github.com/Spidey00007/Leetcode_Solutions/blob/main/1%20-%20500/283.%20Move%20Zeroes.md)
 
 - 🪙 [322. Coin Change](https://github.com/Spidey00007/Leetcode_Solutions/blob/main/1%20-%20500/322.%20Coin%20Change.md)
+
+- 🔝 [347. Top K Frequent Elements]()
 
 - 🌲 [450. Delete Node in a BST](https://github.com/Spidey00007/Leetcode_Solutions/blob/main/1%20-%20500/450.%20Delete%20Node%20in%20a%20BST.md)
 
@@ -16,11 +20,11 @@
 
 - 💰 [518. Coin Change II](https://github.com/Spidey00007/Leetcode_Solutions/blob/main/501%20-%201000/518.%20Coin%20Change%20II.md)
 
-- 📝 [621. Task Scheduler]()
+- 📝 [621. Task Scheduler](https://github.com/Spidey00007/Leetcode_Solutions/blob/main/501%20-%201000/621.%20Task%20Scheduler.md)
 
 - ☄️ [735. Asteroid Collision](https://github.com/Spidey00007/Leetcode_Solutions/blob/main/501%20-%201000/735.%20Asteroid%20Collision.md)
 
-- 🃏 [846. Hand of Straights]()
+- 🃏 [846. Hand of Straights](https://github.com/Spidey00007/Leetcode_Solutions/blob/main/501%20-%201000/846.%20Hand%20of%20Straights.md)
 
 - 🧪 [921. Minimum Add to Make Parentheses Valid](https://github.com/Spidey00007/Leetcode_Solutions/blob/main/501%20-%201000/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.md)
 
