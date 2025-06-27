@@ -6,13 +6,15 @@
 
 - 🔢 [38. Count and Say](https://github.com/Spidey00007/Leetcode_Solutions/blob/main/1%20-%20500/38.%20Count%20and%20Say.md)
 
-- 🏃‍♂️ [55. Jump Game]()
+- 🦘 [45. Jump Game II]()
+
+- 🏃‍♂️ [55. Jump Game](https://github.com/Spidey00007/Leetcode_Solutions/blob/main/1%20-%20500/55.%20Jump%20Game.md)
 
 - 🚚 [283. Move Zeroes](https://github.com/Spidey00007/Leetcode_Solutions/blob/main/1%20-%20500/283.%20Move%20Zeroes.md)
 
 - 🪙 [322. Coin Change](https://github.com/Spidey00007/Leetcode_Solutions/blob/main/1%20-%20500/322.%20Coin%20Change.md)
 
-- 🔝 [347. Top K Frequent Elements]()
+- 🔝 [347. Top K Frequent Elements](https://github.com/Spidey00007/Leetcode_Solutions/blob/main/1%20-%20500/347.%20Top%20K%20Frequent%20Elements.md)
 
 - 🌲 [450. Delete Node in a BST](https://github.com/Spidey00007/Leetcode_Solutions/blob/main/1%20-%20500/450.%20Delete%20Node%20in%20a%20BST.md)
 
